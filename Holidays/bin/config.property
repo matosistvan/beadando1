@@ -1,0 +1,19 @@
+workday-format: u
+workday.Monday : 1
+workday.Tuesday : 2
+workday.Wednesday : 3
+workday.Thursday : 4
+workday.Friday : 5
+
+vacation-format: MM-dd
+vacation.new-year: 01-01
+vacation.march15: 03-15
+#...
+
+extra-vacation-format: yyyy-MM-dd
+extra-vacation.1: 2014-05-02
+#...
+
+extra-workday-format: yyyy-MM-dd
+extra-workday.1: 2014-05-10
+#...

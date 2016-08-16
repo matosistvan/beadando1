@@ -1,0 +1,6 @@
+INDEX VERSION 1.129+C:\Users\Istvan_Matos\Desktop\beadando\.metadata\.plugins\org.eclipse.jdt.core
+2085377670.index
+3562912511.index
+2093993140.index
+1956871445.index
+3844001026.index
