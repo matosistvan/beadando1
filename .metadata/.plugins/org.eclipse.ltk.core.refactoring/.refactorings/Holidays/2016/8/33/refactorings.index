@@ -1,8 +1,0 @@
-1471281854437	Rename type 'GoHomeMain'
-1471289236740	Rename field 'extraHolidays'
-1471289400305	Rename local variable 'extraHolidaysFormatter'
-1471289411814	Rename local variable 'extraHolidaysFormatter'
-1471289457775	Rename field 'extraVacations'
-1471289491552	Rename field 'holidays'
-1471294121165	Rename method 'isHoliday'
-1471294133420	Rename method 'isExtraHoliday'
